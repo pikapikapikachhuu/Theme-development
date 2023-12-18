@@ -72,7 +72,7 @@
 }
 
 /* base */
-sticky-header.header-wrapper.color-background-1.gradient.header-wrapper--border-bottom {
+.header-wrapper--border-bottom {
   background: antiquewhite !important;
 }
 .no-js:not(html) {
