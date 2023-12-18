@@ -72,7 +72,9 @@
 }
 
 /* base */
-
+sticky-header.header-wrapper.color-background-1.gradient.header-wrapper--border-bottom {
+  background: antiquewhite;
+}
 .no-js:not(html) {
   display: none !important;
 }
